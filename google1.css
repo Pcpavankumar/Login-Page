@@ -1,0 +1,119 @@
+@charset "ISO-8859-1";
+#a1{
+	border: 0px ridge black;
+	height: 420px;
+	width: 425px;
+	margin-top: 60px;
+	margin-left: 420px;
+	box-shadow: 3px 3px 15px black;
+	background-color: #edd5e8;
+	border-radius: 20px;
+}
+h4{
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	color: palevioletred;
+	padding-top: 20px;
+	
+}
+
+.b1{
+	border: 1px solid black;
+	height: 25px;
+	width: 145px;
+	margin-left: 50px;
+	text-align: center;
+	font-size: smaller;
+	margin-top: 20px;
+	border-radius: 10px;
+	
+	
+}
+.b1:hover{
+	background-color: pink;
+	
+}
+.b2{
+	border: 1px solid black;
+	height: 25px;
+	width: 145px;
+	margin-left: 30px;
+	text-align: center;
+	font-size: smaller;
+	margin-top:20px;
+	border-radius: 10px;
+	
+}
+.b2:hover{
+	background-color: pink;
+	
+}
+
+.b3{
+	margin-top: 30px;
+	border: 1px solid black;
+	height: 25px;
+	width: 324px;
+	margin-left: 50px;
+	border-radius: 10px;
+	
+}
+.b3:hover{
+	background-color: pink;
+	
+}
+.c1{
+	margin-left: 50px;
+	margin-top: 25px;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.c2{
+	border: 1px solid black;
+	height: 25px;
+	width: 120px;
+	margin-top: 15px;
+	margin-left: 50px;
+	font-size: smaller;
+	text-align: center;
+	border-radius: 10px;
+}
+.c2:hover{
+	background-color: pink;
+	
+}
+.c3{
+	border: 1px solid black;
+	height: 25px;
+	width: 170px;
+	margin-top: 15px;
+	margin-left: 30px;
+	font-size: smaller;
+	text-align: center;
+	border-radius: 10px;
+	
+}
+.c3:hover{
+	background-color: pink;
+	
+}
+.d2{
+	border: 0px solid black;
+	margin-left: 270px;
+	margin-top: 15px;
+	background-color: red;
+	height: 22px;
+	width: 100px;
+	border-radius: 10px;
+	padding-bottom: 25px;
+	text-align: center;
+	padding-top: -5px;
+	box-shadow: 4px 4px 8px blue;
+}
+
+.d2:hover{
+	background-color: blue;
+	color: white;
+}
